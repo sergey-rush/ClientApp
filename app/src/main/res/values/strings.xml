@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Client App</string>
+    <string name="bind">Bind</string>
+    <string name="request">Request</string>
+    <string name="id">Id:</string>
+    <string name="user_id">UserId:</string>
+    <string name="title">Title:</string>
+    <string name="body">Body:</string>
+</resources>
